@@ -1,0 +1,154 @@
+                * {
+                    margin: 0;
+                    padding: 0;
+                    outline: none;
+                }
+                
+                body {
+                    background-color: #FFFFF;
+                }
+                
+                .header {}
+                
+                .container01 {
+                    margin: 0 auto;
+                    width: 1170px;
+                }
+                
+                .flex-box01 {
+                    margin-top: 64px;
+                    display: flex;
+                    justify-content: space-between;
+                }
+                
+                .container {
+                    margin: 0 auto;
+                    width: 1146px;
+                }
+                
+                .img_logo {
+                    margin-left: 0px;
+                    width: 35px;
+                    height: 40px;
+                }
+                
+                .img_gb {
+                    margin-left: 14px;
+                    width: 88px;
+                    height: 30px;
+                }
+                
+                .img_001 {
+                    margin-left: 500px;
+                    margin-top: -20px;
+                    width: 533px;
+                    height: 17px;
+                }
+                
+                .flex-box {
+                    margin-top: 164px;
+                    display: flex;
+                    justify-content: space-between;
+                }
+                
+                .SEO {
+                    font-family: 'Gilroy-Bold';
+                    width: 522px;
+                    height: 222px;
+                    font-size: 60px;
+                    line-height: 70px;
+                    color: #000000;
+                }
+                
+                .flex-box02 {
+                    display: flex;
+                    justify-content: start;
+                }
+                
+                .descript {
+                    width: 466px;
+                    height: 48px;
+                    font-family: 'Gilroy-Medium';
+                    font-size: 20px;
+                    line-height: 23px;
+                    color: #888888;
+                }
+                
+                .button01 {
+                    width: 140px;
+                    height: 50px;
+                    background: #F25822;
+                    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+                    border-radius: 50px;
+                }
+                
+                .video {
+                    margin-left: 60px;
+                }
+                
+                .footer {
+                    width: 1920px;
+                    height: 243px;
+                    color: rgb(8, 19, 35);
+                }
+                
+                .img_logo11 {
+                    margin-left: 630px;
+                    margin-top: 97px;
+                    Width 160px;
+                    Height 50px;
+                    Top 325px;
+                    Left -615px;
+                    background-color: #888888;
+                    color: aqua;
+                }
+                
+                .img_logo12 {
+                    margin-left: 48px;
+                    margin-top: 97px;
+                    Width 160px;
+                    Height 50px;
+                    Top 325px;
+                    Left -615px;
+                    background-color: #888888;
+                }
+                
+                .img_logo13 {
+                    margin-left: 48px;
+                    margin-top: 97px;
+                    Width 160px;
+                    Height 50px;
+                    Top 325px;
+                    Left -615px;
+                    background-color: #888888;
+                }
+                
+                .img_logo14 {
+                    margin-left: 48px;
+                    margin-top: 97px;
+                    Width 160px;
+                    Height 50px;
+                    Top 325px;
+                    Left -615px;
+                    background-color: #888888;
+                }
+                
+                .img_logo15 {
+                    margin-left: 48px;
+                    margin-top: 97px;
+                    Width 160px;
+                    Height 50px;
+                    Top 325px;
+                    Left -615px;
+                    background-color: #888888;
+                }
+                
+                .img_logo16 {
+                    margin-left: 48px;
+                    margin-top: 97px;
+                    Width 160px;
+                    Height 50px;
+                    Top 325px;
+                    Left -615px;
+                    background-color: #888888;
+                }
